@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- N - near, B - below, A - above.-->
+<symbols>
+	<symbol name="ï" pointCount="8">
+		<id>
+			B N B B B B N 
+			A N N B A N 
+			B B B B N
+			A N A N
+			B N N
+			A N
+			B
+		</id>
+	</symbol>
+</symbols>

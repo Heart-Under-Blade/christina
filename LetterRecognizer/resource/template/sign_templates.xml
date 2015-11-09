@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<signs>
+<!-- N - near, B - below, A - above.-->
+    <sign name="п" pointCount="8">
+	<model>
+	<!--2 3 4 5 6 7 8 -->
+	    B N B B B B B
+	      A N N B A N
+		B B B N N
+		  A N A N
+		    B N N
+		      A N
+			B
+	</model>
+    </sign>
+    <sign name="и" pointCount="8">
+	<model>
+	<!--2 3 4 5 6 7 8 -->
+	    B N B N B B B
+	      A N A B A N
+		B B B N N
+		  A N A N
+		    B N N
+		      A N
+			B
+	</model>
+    </sign>
+    <sign name="з" pointCount="10">
+	<model>
+	<!--2 3 4 5 6 7 8 9 10-->
+	    B B B B B B B B B
+	      N B N B N B N N
+		B N B B B N N
+		  A B A A A N
+		    B N N N N
+		      A A A N
+			B N N
+			  A N
+			    B
+	</model>
+    </sign>
+    <sign name="л" pointCount="8">
+	<model>
+	<!--2 3 4 5 6 7 8 -->
+	    B N N N B B B
+	      A N A B A N
+		B B B N N
+		  A B N N
+		    B N N
+		      A N
+			B
+	</model>
+    </sign>
+    <sign name="ш" pointCount="12">
+	<model>
+	<!--2 3 4 5 6 7 8 9 101112 -->
+	    B N B N B N B N B B B
+	      A N A N A N A B A N
+		B N B N B B B N N
+		  A N A B A N A N
+		    B B B N B N N
+		      A N A N A N
+			B N B N N
+			  A N A N
+			    B N N
+			      A N
+				B
+	</model>
+    </sign>
+</signs>
